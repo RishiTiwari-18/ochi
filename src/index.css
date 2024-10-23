@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family:font1 ;
+    src: url(./assets/FoundersGrotesk-Semibold.woff2);
+}
+@font-face {
+    font-family:font2 ;
+    src: url(./assets/icomoon\ \(1\).woff);
+}
+@font-face {
+    font-family:font3 ;
+    src: url(./assets/NeueMontreal-Regular.woff2);
+}
+
+*{
+    font-family: font3, Roboto, sans-serif;
+}
