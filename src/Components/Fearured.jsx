@@ -2,7 +2,7 @@
 
 import React from 'react';
 import FeaturedCard from './FeaturedCard';
-import Button from './button';
+import Button from './Button';
 
 const Featured = () => {
     const featuredItems = [
