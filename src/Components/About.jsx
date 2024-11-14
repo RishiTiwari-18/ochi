@@ -1,6 +1,5 @@
-import { a, p } from 'framer-motion/client'
 import React from 'react'
-import Button from './button'
+import Button from './Button'
 
 const About = () => {
     const para = [
